@@ -22,25 +22,25 @@ window.INVITATION_CONFIG = {
     {
       src: "https://raw.githubusercontent.com/DigitalRoss/invitacionPawPatrol/main/www.tarjetas.cool/modelos/cumple/paw_patrol/img/1.png",
       width: "min(104vw, 470px)",
-      top: "-24px",
+      top: "18px",
       translateX: "-50%"
     },
     {
       src: "https://raw.githubusercontent.com/DigitalRoss/invitacionPawPatrol/main/www.tarjetas.cool/modelos/cumple/paw_patrol/img/4.png",
       width: "min(98vw, 440px)",
-      top: "-24px",
+      top: "18px",
       translateX: "-49%"
     },
     {
       src: "https://raw.githubusercontent.com/DigitalRoss/invitacionPawPatrol/main/www.tarjetas.cool/modelos/cumple/paw_patrol/img/3.png",
       width: "min(54vw, 245px)",
-      top: "-4px",
+      top: "28px",
       translateX: "-50%"
     },
     {
       src: "https://raw.githubusercontent.com/DigitalRoss/invitacionPawPatrol/main/www.tarjetas.cool/modelos/cumple/paw_patrol/img/2.png",
       width: "min(108vw, 485px)",
-      top: "-62px",
+      top: "-12px",
       translateX: "-52%"
     }
   ]
